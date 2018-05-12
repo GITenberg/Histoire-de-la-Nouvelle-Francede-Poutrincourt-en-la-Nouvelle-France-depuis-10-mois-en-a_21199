@@ -1,0 +1,37 @@
+_repo: Histoire-de-la-Nouvelle-Francede-Poutrincourt-en-la-Nouvelle-France-depuis-10-mois-en-a_21199
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lescarbot, Marc
+    alias: Lescarbot, Marc
+    birthdate: 1570
+    deathdate: 1641
+    gutenberg_agent_id: '25225'
+    url: http://www.gutenberg.org/2009/agents/25225
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Marc_Lescarbot
+    - http://en.wikipedia.org/wiki/Marc_Lescarbot
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2007-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21199'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Acadia'
+- !lcsh 'New France -- Discovery and exploration'
+- !lcsh 'Poutrincourt, Jean de Biencourt, sieur de, 1557-1615'
+- !lcc 'F1001'
+title: 'Histoire de la Nouvelle France
+
+  Relation derniere de ce qui s''est passé au voyage du sieur
+
+  de Poutrincourt en la Nouvelle France depuis 10 mois ença'
+url: http://www.gutenberg.org/ebooks/21199
